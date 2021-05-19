@@ -1,14 +1,14 @@
 {
     "dapptools": {
-        "branch": "master",
+        "branch": "fix-std-json-storage-layout",
         "description": "Dapp, Seth, Hevm, and more",
         "homepage": "https://dapp.tools",
         "owner": "dapphub",
         "repo": "dapptools",
-        "rev": "6a40aabbc010af23d5c6f5dd207bd88af3c9ce8f",
-        "sha256": "03b6arn1vzq47c1mkng5q28msf52aimmqiw0sjrgqi09zg2ahzhc",
+        "rev": "d4ace35c2e0dad8f0e126d133404e5b3beb727f5",
+        "sha256": "1ipamy0li4mg1l8l218bw79ajwkxi2dvjd2ma02pyq4wndn4lvzx",
         "type": "tarball",
-        "url": "https://github.com/dapphub/dapptools/archive/6a40aabbc010af23d5c6f5dd207bd88af3c9ce8f.tar.gz",
+        "url": "https://github.com/dapphub/dapptools/archive/d4ace35c2e0dad8f0e126d133404e5b3beb727f5.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "nixpkgs": {
